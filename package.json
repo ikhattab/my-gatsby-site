@@ -16,8 +16,9 @@
   },
   "license": "0BSD",
   "dependencies": {
-    "gatsby": "^2.26.1",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "@marinda/gatsby-theme-recipes": "^2.0.0",
+    "gatsby": "^2.28.0",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0"
   }
 }
